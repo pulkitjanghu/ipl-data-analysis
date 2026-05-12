@@ -18,4 +18,4 @@ This is a mini data analysis project on IPL using Python, Pandas and Matplotlib.
 - matches.csv
 - deliveries.csv (both from Kaggle)
 
-Made by Ritesh Kumar 💻
+
